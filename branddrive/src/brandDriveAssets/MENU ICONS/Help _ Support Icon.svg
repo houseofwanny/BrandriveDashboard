@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30.33" height="30.816" viewBox="0 0 30.33 30.816">
+  <g id="chatbot" transform="translate(-2 -2)">
+    <path id="Path_803" data-name="Path 803" d="M3,6.148V31a.787.787,0,0,0,1.343.556L10.409,25.5a1.574,1.574,0,0,1,1.113-.461H28.182a3.148,3.148,0,0,0,3.148-3.148V6.148A3.148,3.148,0,0,0,28.182,3H6.148A3.148,3.148,0,0,0,3,6.148Z" transform="translate(0 0)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Path_804" data-name="Path 804" d="M15,12a5,5,0,0,1-6,0" transform="translate(5.165 5.464)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Path_805" data-name="Path 805" d="M9,8.02V8" transform="translate(3.443 2.873)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Path_806" data-name="Path 806" d="M15,8.02V8" transform="translate(6.887 2.873)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

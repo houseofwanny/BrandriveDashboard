@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28.903" height="28" viewBox="0 0 28.903 28">
+  <g id="Download_Invoice" data-name="Download Invoice" transform="translate(-0.001)">
+    <ellipse id="Ellipse_214" data-name="Ellipse 214" cx="14.452" cy="14" rx="14.452" ry="14" transform="translate(0.001)" fill="#1e1e1e"/>
+    <g id="export_icon" data-name="export icon" transform="translate(4.941 6.165)">
+      <path id="Path_222" data-name="Path 222" d="M12,25.5l3.447,3.579L18.893,25.5" transform="translate(-5.961 -12.963)" fill="none" stroke="#e8f1ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Path_223" data-name="Path 223" d="M18,18v8.052" transform="translate(-8.514 -9.937)" fill="none" stroke="#e8f1ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Path_224" data-name="Path 224" d="M18.623,17.994a4.568,4.568,0,0,0,1.629-5.011,4.328,4.328,0,0,0-4.11-3.122H15.056A6.982,6.982,0,0,0,9.168,4.529a6.835,6.835,0,0,0-6.9,3.8,7.375,7.375,0,0,0,.95,8.052" transform="translate(-1.486 -4.482)" fill="none" stroke="#e8f1ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

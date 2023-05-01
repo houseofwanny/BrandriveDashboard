@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="39.457" height="31.68" viewBox="0 0 39.457 31.68">
+  <g id="Expenses_Icon" data-name="Expenses Icon" transform="translate(0.85 0.85)">
+    <rect id="Rectangle_291" data-name="Rectangle 291" width="24" height="16" rx="1" fill="none" stroke="#e7f1ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.7"/>
+    <rect id="Rectangle_294" data-name="Rectangle 294" width="27.757" height="22.646" rx="0.5" transform="translate(10 7.333)" fill="#2f4960" stroke="#e7f1ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.7"/>
+    <text id="_" data-name="₦" transform="translate(17 9)" fill="#e7f1ff" font-size="15" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="14">₦</tspan></text>
+    <line id="Line_140" data-name="Line 140" x2="16.667" transform="translate(4 3.333)" fill="none" stroke="#e7f1ff" stroke-linecap="round" stroke-width="1"/>
+  </g>
+</svg>
